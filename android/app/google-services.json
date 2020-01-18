@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358177523257",
+    "firebase_url": "https://lcirttestnate.firebaseio.com",
+    "project_id": "lcirttestnate",
+    "storage_bucket": "lcirttestnate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358177523257:android:4acf5c4cd08481fe1eefe8",
+        "android_client_info": {
+          "package_name": "com.languageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358177523257-0mtk2m5g45pl128602lo1q64c8imks23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HD2pAkrLhDUZdYzma65PdbeJPxOUfuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358177523257-0mtk2m5g45pl128602lo1q64c8imks23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
